@@ -1,0 +1,43 @@
+{
+  "Debug": 1,
+  "Logfile": "willy.log",
+  "WorkUntil_Date": 20220131,
+  "WorkUntil_Time": 1109,
+  "logins": [
+  {
+    "Username": "Enter your email here",
+    "Password": "Enter facebook password here",
+    "Date": 20220108,
+    "Time": 1612,
+    "jobs": [
+    {
+      "Code": "176789",
+      "Link": "https://www.facebook.com/messages/t/100076548047332",
+      "Comment": "Hello Dulio Foschi, It's Long from Upwork. This is a message from my Bot"
+    },
+    {
+      "Code": "176791",
+      "Duration": 1000
+    }
+    ]
+  },
+  {
+    "Username": "aaa",
+    "Password": "bbb",
+    "Date": 20220110,
+    "Time": 1454,
+    "jobs": [
+    {
+      "Code": "176789",
+      "Link": "",
+      "Comment": "Hi Longggg"
+    },
+    {
+      "Code": "176780",
+      "Link": "",
+      "Comment": "Test xem ok hum"
+    }
+    ]
+  }
+  ]
+}
